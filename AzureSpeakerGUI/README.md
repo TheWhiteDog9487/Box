@@ -7,3 +7,5 @@ Azure那SDK体积太大了，所以我把它的文件删掉了，建议自行按
 依赖项：
 - Qt 6
 - Microsoft Azure 语音SDK
+- cpr
+- nlohmann-json
